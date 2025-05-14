@@ -1,0 +1,15 @@
+pyproject.toml
+src/PySimpleBc/__init__.py
+src/PySimpleBc/main.py
+src/PySimpleBc/models/Block.py
+src/PySimpleBc/models/Blockchain.py
+src/PySimpleBc/models/Consensus.py
+src/PySimpleBc/models/SmartContract.py
+src/PySimpleBc/models/Terminal.py
+src/PySimpleBc/models/Transaction.py
+src/PySimpleBc/models/Wallet.py
+src/simplebc.egg-info/PKG-INFO
+src/simplebc.egg-info/SOURCES.txt
+src/simplebc.egg-info/dependency_links.txt
+src/simplebc.egg-info/top_level.txt
+tests/test.py
